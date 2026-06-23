@@ -90,7 +90,7 @@ python step6_models.py
 python step7_shap.py
 
 5. Launch web app
-streamlit run app/streamlit_app.py
+python -m streamlit run app/streamlit_app.py
 
 ## Author
 Name: Himanshu Singh Bisht
